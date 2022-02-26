@@ -9,4 +9,5 @@ int main()
        printf("1");
        printf("2");
        printf("5");
+       printf("6");
 }
